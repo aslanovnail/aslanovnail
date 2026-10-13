@@ -10,7 +10,7 @@
 
 ## Featured Projects
 
-- [Customer Churn Prediction](https://github.com/aslanovnail/customer-churn-prediction) — CatBoost model at **0.97 AUC-ROC / 93% accuracy**; found month-to-month customers churn at **3x** the rate of annual subscribers
+- [Customer Churn Prediction](https://github.com/aslanovnail/customer-churn-prediction) — CatBoost model at **0.97 AUC-ROC / 93% accuracy** on 7,000+ telecom records; identifies at-risk subscribers for targeted retention outreach
 - [Taxi Demand Forecasting](https://github.com/aslanovnail/time-series-forecasting) — Hourly demand forecasting to optimize driver scheduling around peak hours
 - [Ride-Share SQL Analytics](https://github.com/aslanovnail/business-analytics-sql) — Operational insights with SQL: CTEs, window functions, multi-table joins
 
